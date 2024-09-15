@@ -9,3 +9,5 @@ Requirements:
 See the files in the doc Folder for more informations.
 
 Windows exe file at https://github.com/Jonas-0/EWT-simulation/releases/tag/test_version.
+
+If the scaling is too small to read goto Properties, select the Compatibility tab, and then select the Disable display scaling on high DPI settings check box. Then Chose System in the drop down menu.
