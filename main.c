@@ -26,7 +26,7 @@ int main(void)
     
     bool move_free = false;
 
-    SetConfigFlags(FLAG_WINDOW_RESIZABLE); 
+    SetConfigFlags(FLAG_WINDOW_RESIZABLE| FLAG_WINDOW_HIGHDPI); 
     InitWindow(screenWidth, screenHeight, "EWT");
 
     Camera camera = { 0 };
